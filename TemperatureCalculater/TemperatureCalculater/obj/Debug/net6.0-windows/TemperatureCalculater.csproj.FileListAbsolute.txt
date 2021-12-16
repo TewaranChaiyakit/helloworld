@@ -1,0 +1,17 @@
+C:\Users\Admin\Documents\GitHub\helloworld\TemperatureCalculater\TemperatureCalculater\bin\Debug\net6.0-windows\TemperatureCalculater.exe
+C:\Users\Admin\Documents\GitHub\helloworld\TemperatureCalculater\TemperatureCalculater\bin\Debug\net6.0-windows\TemperatureCalculater.deps.json
+C:\Users\Admin\Documents\GitHub\helloworld\TemperatureCalculater\TemperatureCalculater\bin\Debug\net6.0-windows\TemperatureCalculater.runtimeconfig.json
+C:\Users\Admin\Documents\GitHub\helloworld\TemperatureCalculater\TemperatureCalculater\bin\Debug\net6.0-windows\TemperatureCalculater.dll
+C:\Users\Admin\Documents\GitHub\helloworld\TemperatureCalculater\TemperatureCalculater\bin\Debug\net6.0-windows\ref\TemperatureCalculater.dll
+C:\Users\Admin\Documents\GitHub\helloworld\TemperatureCalculater\TemperatureCalculater\bin\Debug\net6.0-windows\TemperatureCalculater.pdb
+C:\Users\Admin\Documents\GitHub\helloworld\TemperatureCalculater\TemperatureCalculater\obj\Debug\net6.0-windows\TemperatureCalculater.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\GitHub\helloworld\TemperatureCalculater\TemperatureCalculater\obj\Debug\net6.0-windows\TemperatureCalculater.Form1.resources
+C:\Users\Admin\Documents\GitHub\helloworld\TemperatureCalculater\TemperatureCalculater\obj\Debug\net6.0-windows\TemperatureCalculater.csproj.GenerateResource.cache
+C:\Users\Admin\Documents\GitHub\helloworld\TemperatureCalculater\TemperatureCalculater\obj\Debug\net6.0-windows\TemperatureCalculater.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\GitHub\helloworld\TemperatureCalculater\TemperatureCalculater\obj\Debug\net6.0-windows\TemperatureCalculater.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\GitHub\helloworld\TemperatureCalculater\TemperatureCalculater\obj\Debug\net6.0-windows\TemperatureCalculater.AssemblyInfo.cs
+C:\Users\Admin\Documents\GitHub\helloworld\TemperatureCalculater\TemperatureCalculater\obj\Debug\net6.0-windows\TemperatureCalculater.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\GitHub\helloworld\TemperatureCalculater\TemperatureCalculater\obj\Debug\net6.0-windows\TemperatureCalculater.dll
+C:\Users\Admin\Documents\GitHub\helloworld\TemperatureCalculater\TemperatureCalculater\obj\Debug\net6.0-windows\ref\TemperatureCalculater.dll
+C:\Users\Admin\Documents\GitHub\helloworld\TemperatureCalculater\TemperatureCalculater\obj\Debug\net6.0-windows\TemperatureCalculater.pdb
+C:\Users\Admin\Documents\GitHub\helloworld\TemperatureCalculater\TemperatureCalculater\obj\Debug\net6.0-windows\TemperatureCalculater.genruntimeconfig.cache
